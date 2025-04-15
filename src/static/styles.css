@@ -83,21 +83,19 @@ section h3 {
 
 .activity-card ul li {
   margin-bottom: 5px;
-  font-size: 14px;
+  font-size: 15px; /* Increased font size */
+  color: black; /* Changed font color to black */
 }
 
 .activity-card div {
   margin-top: 10px;
-  padding: 10px;
-  background-color: #f1f8e9;
-  border: 1px solid #c5e1a5;
-  border-radius: 5px;
+  /* Removed background-color, border, and padding */
 }
 
 .activity-card div strong {
   display: block;
   margin-bottom: 5px;
-  color: #33691e;
+  color: black; /* Changed font color to black */
 }
 
 .form-group {
